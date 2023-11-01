@@ -1,0 +1,14 @@
+D:\C#\Introduccion\Introduccion\bin\Debug\net7.0\Introduccion.exe
+D:\C#\Introduccion\Introduccion\bin\Debug\net7.0\Introduccion.deps.json
+D:\C#\Introduccion\Introduccion\bin\Debug\net7.0\Introduccion.runtimeconfig.json
+D:\C#\Introduccion\Introduccion\bin\Debug\net7.0\Introduccion.dll
+D:\C#\Introduccion\Introduccion\bin\Debug\net7.0\Introduccion.pdb
+D:\C#\Introduccion\Introduccion\obj\Debug\net7.0\Introduccion.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Introduccion\Introduccion\obj\Debug\net7.0\Introduccion.AssemblyInfoInputs.cache
+D:\C#\Introduccion\Introduccion\obj\Debug\net7.0\Introduccion.AssemblyInfo.cs
+D:\C#\Introduccion\Introduccion\obj\Debug\net7.0\Introduccion.csproj.CoreCompileInputs.cache
+D:\C#\Introduccion\Introduccion\obj\Debug\net7.0\Introduccion.dll
+D:\C#\Introduccion\Introduccion\obj\Debug\net7.0\refint\Introduccion.dll
+D:\C#\Introduccion\Introduccion\obj\Debug\net7.0\Introduccion.pdb
+D:\C#\Introduccion\Introduccion\obj\Debug\net7.0\Introduccion.genruntimeconfig.cache
+D:\C#\Introduccion\Introduccion\obj\Debug\net7.0\ref\Introduccion.dll
